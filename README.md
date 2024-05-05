@@ -7,11 +7,11 @@
 -> The 'server.js' will act as a backend(Port - 3000) for the frontend, created to send API requests to the file 'index.js'.<br>
 
 # Steps to test the Blogging API:
--> Download all the folders/files into the local system and navigate to the Project in the terminal.
--> In the terminal run the command 'npm i' to install all the node dependencies of the project.
--> After installing node dependencies, run the command 'nodemon index.js' to start the server of the API on Port 4000.
--> To send the API requests, open another terminal in parallel and navigate to the project folder and run the command 'nodemon index.js' to start the external server for testing the API.
--> Open the link 'http://localhost:3000' in any of the available browsers to view the frontend created for testing the API.
--> The frontend displays all the existing blog posts, present in the API using the GET route.
--> Click on the 'New Post' button to create a new blog by sending the POST request to the API.
--> Click on the 'Edit' and 'DELETE' buttons to modify/delete the respective blog by sending the PATCH or DELETE request to the API.
+-> Download all the folders/files into the local system and navigate to the Project in the terminal.<br>
+-> In the terminal run the command 'npm i' to install all the node dependencies of the project.<br>
+-> After installing node dependencies, run the command 'nodemon index.js' to start the server of the API on Port 4000.<br>
+-> To send the API requests, open another terminal in parallel and navigate to the project folder and run the command 'nodemon index.js' to start the external server for testing the API.<br>
+-> Open the link 'http://localhost:3000' in any of the available browsers to view the frontend created for testing the API.<br>
+-> The frontend displays all the existing blog posts, present in the API using the GET route.<br>
+-> Click on the 'New Post' button to create a new blog by sending the POST request to the API.<br>
+-> Click on the 'Edit' and 'DELETE' buttons to modify/delete the respective blog by sending the PATCH or DELETE request to the API.<br>
