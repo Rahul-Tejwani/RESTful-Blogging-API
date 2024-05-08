@@ -10,7 +10,7 @@
 -> Download all the folders/files into the local system and navigate to the Project in the terminal.<br>
 -> In the terminal, run the command 'npm i' to install all the node dependencies of the project.<br>
 -> After installing node dependencies, run the command 'nodemon index.js' to start the server of the API on Port 4000.<br>
--> To send the API requests, open another terminal in parallel and navigate to the project folder and run the command 'nodemon index.js' to start the external server for testing the API.<br>
+-> To send the API requests, open another terminal in parallel and navigate to the project folder and run the command 'nodemon server.js' to start the external server for testing the API.<br>
 -> Open the link 'http://localhost:3000' in any of the available browsers to view the frontend created for testing the API.<br>
 -> The frontend displays all the existing blog posts, present in the API using the GET route.<br>
 -> Click on the 'New Post' button to create a new blog by sending the POST request to the API.<br>
